@@ -1,0 +1,20 @@
+﻿h1
+{
+    text-align: center;
+    color: black;
+}
+body{
+    background-color: lightcoral;
+    padding: 75px;
+}
+ul{
+    background-color: darkgray;
+
+}
+img{
+    width: 500px;
+    height: 600px;
+}
+p{
+    border: 2px solid darkgray;
+}

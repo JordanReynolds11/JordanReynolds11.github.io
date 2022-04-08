@@ -1,0 +1,13 @@
+﻿body
+{
+    background-color: lightcoral;
+}
+h1 {
+    text-align: center;
+    border: 20px solid darkgray;
+    padding: 30px;
+}
+p{
+    text-align: center;
+   
+}
